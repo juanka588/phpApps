@@ -1,0 +1,19 @@
+ nav ul li i {
+    display: inline !important;
+    margin-right: 8px;
+}
+.nav-wrapper{
+	background-color: #fafafa !important;
+}
+.page-footer{
+	background-color: #e0e0e0 !important;
+}
+.carousel-slider{
+	margin-top: 16em;
+	width: 600px;
+	height: 200px !important;
+	margin: auto;
+}
+.brand-logo{
+	margin-left: 60px;
+}
